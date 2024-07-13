@@ -1,6 +1,6 @@
 <i><b> Problem Statement: </b></i>
 <br>
-<u><b>Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
+<u><b style:font-size="20px">Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
 <br><br>
 
 <i><b> Description: </b></i>
