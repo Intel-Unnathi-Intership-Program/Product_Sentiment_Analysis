@@ -1,4 +1,4 @@
-# Product_Sentiment_Analysis
+Intel-Products-Sentiment-Analysis-from-Online-Reviews
 
 Description: 
 Intel Products are reviewed by end users and tech reviewers on various platforms. 
