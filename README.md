@@ -9,7 +9,7 @@
 </ul></b>
 <i><b> Problem Statement: </b></i>
 <br>
-<u><b style:font-size="large">Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
+<u><b style:font-size="50px">Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
 <br><br>
 
 <i><b> Description: </b></i>
