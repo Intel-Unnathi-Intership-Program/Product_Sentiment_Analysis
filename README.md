@@ -1,5 +1,4 @@
-Intel-Products-Sentiment-Analysis-from-Online-Reviews
-
+<h1>Intel-Products-Sentiment-Analysis-from-Online-Reviews</h1>
 <i><b>Team: </b></i>
 <b>Brainiacs</b>
 <br>
