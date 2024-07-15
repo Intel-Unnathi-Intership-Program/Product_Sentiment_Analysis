@@ -27,8 +27,8 @@ different product category.</p>
   <li>Models and outputs for above expected use cases along with performance metrics of each model.</li>
   <li>The data source, train and test data of project.</li>
   <li>Key Summary and Recommendation slides based on analysis and model outcomes .</li>
-  <li><b><a href="https://drive.google.com/file/d/1SFVgKHfe6UotXsmXLabzXn8r-kKVxRN4/view?usp=drive_link">Report</a></b></li>
-  <li><a href="https://docs.google.com/presentation/d/1oJb4siJzlmzC6lRLuOr6VwT26Kyr1pWe/edit?usp=sharing&ouid=112215675198463534492&rtpof=true&sd=true">PPT</a></li>
+  <li><b><a href="https://drive.google.com/file/d/1SFVgKHfe6UotXsmXLabzXn8r-kKVxRN4/view?usp=sharing">Report</a></b></li>
+  <li><a href="https://docs.google.com/presentation/d/1LreSXkqMysI0QbeEniwB7Q0ajV4p_Bb8/edit?usp=sharing&ouid=112215675198463534492&rtpof=true&sd=true">PPT</a></li>
 </ul>
 
 <h2>Implementation of the Intel Products Sentiment Analysis Project</h2>
