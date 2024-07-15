@@ -1,33 +1,33 @@
 <h1>Intel-Products-Sentiment-Analysis-from-Online-Reviews</h1>
-<i><b>Team: </b></i>
-<b>Brainiacs</b>
-<br>
-<i><b>Members: </b></i>
-<b><ul>
-<li>Ananya Prabhu</li>
-<li>Neha Nayak</li>
-<li>Pooja D</li>
-</ul></b>
-<i><b> Problem Statement: </b></i>
-<br>
-<u><b style:font-size="50px">Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
-<br><br>
 
-<i><b> Description: </b></i>
+<h3>Team Details: </h3>
+<p><b>Team Name: </b>Brainiacs</p>
+<b>Team Members: </b>
+<ul>
+<li>Ananya Dayanand Prabhu</li>
+<li>Neha Vithob Nayak</li>
+<li>Pooja S Doddagoudar</li>
+</ul>
+<p><b>Institute Name: </b>Shri Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad.</p>
+<h3> Problem Statement-11: </h3>
+<u><b>Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
+
+<h3> Description: </h3>
 <p>Intel Products are reviewed by end users and tech reviewers on various platforms. 
-Hence, the ask is to scrap the reviews available on different sources in the last 3 - 5 years. Apply 
+Hence, we scraped the reviews available on different sources in the last 3 - 5 years. Applied
 various exploratory data analysis, machine learning, and natural programming techniques to find the 
 sentiments of products, clustering of affinity reviews, trends of sentiments over period, features 
 and keywords extraction to specific sentiments, recommendation on key improvements based on 
-users reviews for future products. Ensure sentiments and any other analysis is also demonstrated on 
+users reviews for future products. Ensuring sentiments and any other analysis is also demonstrated on 
 different product category.</p>
 
-<i><b> Outcomes: </b></i>
+<h3> Outcomes: </h3>
 <ul>
-  <li>Models and outputs for above expected use cases along with performance metrics of each 
-model.</li>
+  <li>Models and outputs for above expected use cases along with performance metrics of each model.</li>
   <li>The data source, train and test data of project.</li>
   <li>Key Summary and Recommendation slides based on analysis and model outcomes .</li>
+  <li><b><a href="https://docs.google.com/document/d/1LmTINdQo1nEOkUazyLHRpJ2s4B5NxLj9/edit?usp=sharing&ouid=112215675198463534492&rtpof=true&sd=true">Report</a></b></li>
+  <li><a href="">PPT</a></li>
 </ul>
 
 <h1>Implementation of the Intel Products Sentiment Analysis Project</h1>
