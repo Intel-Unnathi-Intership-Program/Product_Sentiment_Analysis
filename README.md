@@ -26,7 +26,7 @@ different product category.</p>
   <li>Models and outputs for above expected use cases along with performance metrics of each model.</li>
   <li>The data source, train and test data of project.</li>
   <li>Key Summary and Recommendation slides based on analysis and model outcomes .</li>
-  <li><b><a href="https://docs.google.com/document/d/1LmTINdQo1nEOkUazyLHRpJ2s4B5NxLj9/edit?usp=sharing&ouid=112215675198463534492&rtpof=true&sd=true">Report</a></b></li>
+  <li><b><a href="">Report</a></b></li>
   <li><a href="">PPT</a></li>
 </ul>
 
