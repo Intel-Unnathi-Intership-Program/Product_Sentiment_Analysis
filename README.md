@@ -8,6 +8,8 @@
 <li>Neha Vithob Nayak</li>
 <li>Pooja S Doddagoudar</li>
 </ul>
+<p><b>Nominator Name: </b>Dr. Shrinivasrao B. Kulkarni</p>
+<p><b>Mentor Name: </b>Dr. Archana Nandibewoor</p>
 <p><b>Institute Name: </b>Shri Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad.</p>
 <h3> Problem Statement-11: </h3>
 <u><b>Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
