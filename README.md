@@ -16,8 +16,7 @@
 <p>Intel Products are reviewed by end users and tech reviewers on various platforms. 
 Hence, we scraped the reviews available on different sources in the last 3 - 5 years. Applied
 various exploratory data analysis, machine learning, and natural programming techniques to find the 
-sentiments of products, clustering of affinity reviews, trends of sentiments over period, features 
-and keywords extraction to specific sentiments, recommendation on key improvements based on 
+sentiments of products,  features and keywords extraction to specific sentiments, recommendation on key improvements based on 
 users reviews for future products. Ensuring sentiments and any other analysis is also demonstrated on 
 different product category.</p>
 
