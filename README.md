@@ -1,6 +1,6 @@
 <h1>Intel-Products-Sentiment-Analysis-from-Online-Reviews</h1>
 
-<h3>Team Details: </h3>
+<h2>Team Details: </h2>
 <p><b>Team Name: </b>Brainiacs</p>
 <b>Team Members: </b>
 <ul>
@@ -12,7 +12,7 @@
 <h3> Problem Statement-11: </h3>
 <u><b>Intel-Products-Sentiment-Analysis-from-Online-Reviews</b></u>
 
-<h3> Description: </h3>
+<h2> Description: </h2>
 <p>Intel Products are reviewed by end users and tech reviewers on various platforms. 
 Hence, we scraped the reviews available on different sources in the last 3 - 5 years. Applied
 various exploratory data analysis, machine learning, and natural programming techniques to find the 
@@ -21,7 +21,7 @@ and keywords extraction to specific sentiments, recommendation on key improvemen
 users reviews for future products. Ensuring sentiments and any other analysis is also demonstrated on 
 different product category.</p>
 
-<h3> Outcomes: </h3>
+<h2> Outcomes: </h2>
 <ul>
   <li>Models and outputs for above expected use cases along with performance metrics of each model.</li>
   <li>The data source, train and test data of project.</li>
@@ -30,7 +30,7 @@ different product category.</p>
   <li><a href="">PPT</a></li>
 </ul>
 
-<h1>Implementation of the Intel Products Sentiment Analysis Project</h1>
+<h2>Implementation of the Intel Products Sentiment Analysis Project</h2>
 <h3>1. Data Collection</h3>
 <p>The project begins with collecting user reviews of Intel products from Amazon. Web scraping techniques are used to extract review data from multiple pages. The scraping process involves sending HTTP requests to Amazon pages, rendering JavaScript content using Splash, and parsing the HTML to locate review elements. Key data points such as review ratings and review body text are extracted and stored in a structured format.</p>
 <h3>2. Data Preprocessing</h3>
